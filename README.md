@@ -16,7 +16,9 @@ first clone or download the repository
 
 
 ```
-git clone https://github.com/GoodHub/Rest-API-Swagger.git```
+
+git clone https://github.com/GoodHub/Rest-API-Swagger.git
+```
 
 After that you will use some tools to help you.
 
